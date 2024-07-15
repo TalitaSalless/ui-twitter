@@ -13,8 +13,6 @@ Este projeto tem como objetivo recriar a aparência e a sensação da interface 
 [Inserir link para demonstração online aqui, se aplicável]
 
 ## Capturas de Tela
-
-![Captura de Tela 1](screenshot1.png)
-![Captura de Tela 2](screenshot2.png)
+<img src="https://github.com/TalitaSalless/ui-twitter/blob/main/screencapture0.png" />
 
 
